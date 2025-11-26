@@ -1,8 +1,8 @@
 
 ![微信图片_20251022102100_58_41(1)(1)](https://github.com/user-attachments/assets/e88d8ee3-33ac-44af-b242-ae8231d4df3a)
-(https://github.com/user-attachments/files/23760471/default.html)
 
-<!DOCTYPE html>
+
+
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
